@@ -1,6 +1,6 @@
 # Setting Up Local AI Models with Continue.dev in VS Code
 
-This guide explains how to install and use local AI models with the Continue.dev extension in Visual Studio Code. By following these steps, you will be able to run AI models locally on your machine, connect them with Continue.dev, and enhance your coding experience.
+This guide explains how to install and use local AI models with the Continue.dev extension in Visual Studio Code in linux operating system. By following these steps, you will be able to run AI models locally on your machine, connect them with Continue.dev, and enhance your coding experience.
 
 ## Prerequisites
 
